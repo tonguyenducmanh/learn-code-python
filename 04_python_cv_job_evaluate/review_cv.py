@@ -4,6 +4,7 @@ from openai import OpenAI
 # Khởi tạo OpenAI Client
 client = OpenAI(api_key="...")  # Thay bằng API key thực tế
 
+
 def extract_text_from_pdf(file_path: str) -> str:
     """Đọc file PDF và trả về nội dung text"""
     text = ""
