@@ -1,0 +1,8 @@
+python-multipart==0.0.20
+fastapi 
+uvicorn 
+streamlit 
+python-pptx 
+pymupdf 
+openai 
+requests
