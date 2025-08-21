@@ -1,0 +1,110 @@
+[
+  {
+    "EmployeePercent": null,
+    "ID": "1",
+    "OrganizationUnitCode": null,
+    "Quantity": 3212,
+    "LastQuantity": 2906,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "2",
+    "OrganizationUnitCode": null,
+    "Quantity": 3261,
+    "LastQuantity": 2889,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "3",
+    "OrganizationUnitCode": null,
+    "Quantity": 3269,
+    "LastQuantity": 2868,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "4",
+    "OrganizationUnitCode": null,
+    "Quantity": 3249,
+    "LastQuantity": 2837,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "5",
+    "OrganizationUnitCode": null,
+    "Quantity": 3347,
+    "LastQuantity": 2870,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "6",
+    "OrganizationUnitCode": null,
+    "Quantity": 3497,
+    "LastQuantity": 2930,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "7",
+    "OrganizationUnitCode": null,
+    "Quantity": 3670,
+    "LastQuantity": 3010,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "8",
+    "OrganizationUnitCode": null,
+    "Quantity": 3710,
+    "LastQuantity": 3042,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "9",
+    "OrganizationUnitCode": null,
+    "Quantity": 0,
+    "LastQuantity": 3090,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "10",
+    "OrganizationUnitCode": null,
+    "Quantity": 0,
+    "LastQuantity": 3125,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "11",
+    "OrganizationUnitCode": null,
+    "Quantity": 0,
+    "LastQuantity": 3172,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  },
+  {
+    "EmployeePercent": null,
+    "ID": "12",
+    "OrganizationUnitCode": null,
+    "Quantity": 0,
+    "LastQuantity": 3208,
+    "ReceiveQuantity": null,
+    "TerminateQuantity": null
+  }
+]
