@@ -1,0 +1,1 @@
+# Project này tập hợp nhiều project nhỏ, mỗi folder sẽ là 1 lần học code python
