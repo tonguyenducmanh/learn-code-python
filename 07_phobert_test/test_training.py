@@ -23,7 +23,7 @@ encoded_dataset = dataset.map(preprocess_function, batched=True)
 
 training_args = TrainingArguments(
     output_dir="./results",
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
@@ -38,7 +38,6 @@ trainer = Trainer(
     args=training_args,
     train_dataset=encoded_dataset["train"],
     eval_dataset=encoded_dataset["train"].select(range(3)),  # ví dụ lấy 200 mẫu để eval
-    tokenizer=tokenizer,
 )
 
 trainer.train()
