@@ -1,0 +1,10 @@
+pymongo
+langgraph
+langgraph-checkpoint-mongodb
+streamlit
+google-genai
+python-dotenv
+pandas
+openpyxl
+fastapi
+uvicorn
